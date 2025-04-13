@@ -8,7 +8,7 @@ Each notebook is based on a **real-world dataset** and contains **30 curated que
 ## ✅ What's Included
 
 - 📁 Clean and structured Jupyter Notebooks
-- 📊 Real datasets (primarily from Kaggle)
+- 📊 Real datasets (stored in this repo)
 - 🧠 30 real-world questions per exam
 - 💡 Inline explanations for each answer
 - 📂 Git version-controlled and portfolio-ready
@@ -19,7 +19,7 @@ Each notebook is based on a **real-world dataset** and contains **30 curated que
 
 | Exam Title | Notebook | Score | Dataset |
 |------------|----------|--------|---------|
-| Spotify Streaming Data Analysis | [Pandas Exam](https://github.com/hasanismayilov1984/my-exams/blob/main/spotify_data/Pandas%20Exam.ipynb) | 29 / 30 | [Spotify Global Dataset (Kaggle)](https://www.kaggle.com/datasets/hasanby/spotify-global-2024) |
+| Spotify Streaming Data Analysis | [Pandas Exam](https://github.com/hasanismayilov1984/my-exams/blob/main/spotify_data/Pandas%20Exam.ipynb) | 29 / 30 | [spotify_2024.csv](https://github.com/hasanismayilov1984/my-exams/blob/main/spotify_data/spotify_2024.csv) |
 
 ---
 
