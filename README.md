@@ -1,36 +1,41 @@
 # 🎓 my-exams
 
-A collection of daily self-assessment challenges to sharpen my Data Science, Python, and Machine Learning skills.  
-Each notebook contains **30 real-world questions** on a selected dataset — including code, logic, and explanations.
+A growing collection of self-assessment challenges designed to sharpen my skills in **Data Science, Python, Pandas**, and **Machine Learning**.  
+Each notebook is based on a **real-world dataset** and contains **30 curated questions** — covering data exploration, transformation, analysis, and modeling techniques.
 
 ---
 
 ## ✅ What's Included
 
-- 📁 Structured Jupyter Notebooks per topic
-- 📊 Real-world datasets (via Kaggle API)
-- 🧠 30 curated questions per exam
-- 📂 Clean Git version control, organized repo
-- 📝 [exam_summary.md](./exam_summary.md) to track my progress
+- 📁 Clean and structured Jupyter Notebooks
+- 📊 Real datasets (primarily from Kaggle)
+- 🧠 30 real-world questions per exam
+- 💡 Inline explanations for each answer
+- 📂 Git version-controlled and portfolio-ready
 
 ---
 
 ## 📘 Completed Exams
 
-| Exam Title | Notebook | Score | Summary |
+| Exam Title | Notebook | Score | Dataset |
 |------------|----------|--------|---------|
-| Spotify Streaming Data Analysis | [Pandas Exam](./spotify_data/Pandas%20Exam.ipynb) | 29 / 30 | [exam_summary.md](./exam_summary.md) |
+| Spotify Streaming Data Analysis | [Pandas Exam](./spotify_data/Pandas%20Exam.ipynb) | 29 / 30 | [Spotify Global Dataset (Kaggle)](https://www.kaggle.com/datasets/hasanby/spotify-global-2024) |
 
 ---
 
 ## 🚀 Goals
 
-- Improve confidence with Python, Pandas, and machine learning
-- Build strong GitHub activity for recruiters
-- Use version-controlled projects to prepare for interviews
+- Strengthen my core skills with hands-on practice
+- Build a transparent and practical GitHub portfolio
+- Prepare for real-world data science and analytics interviews
 
 ---
 
-## 📬 Feedback?
+## 📬 Feedback or Questions?
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hasan-ismayilov-analytics/) or follow the repo to track updates.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/hasan-ismayilov-analytics/)  
+Or follow this repo to see future exams as they’re added!
+
+---
+
+*Thanks for visiting! More datasets and challenges coming soon...*
