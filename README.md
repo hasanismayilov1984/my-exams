@@ -19,7 +19,7 @@ Each notebook is based on a **real-world dataset** and contains **30 curated que
 
 | Exam Title | Notebook | Score | Dataset |
 |------------|----------|--------|---------|
-| Spotify Streaming Data Analysis | [Pandas Exam](https://github.com/hasanismayilov1984/my-exams/blob/main/spotify_data/Pandas%20Exam.ipynb) | 29 / 30 | [spotify_2024.csv](https://github.com/hasanismayilov1984/my-exams/blob/main/spotify_data/spotify_2024.csv) |
+| Spotify Streaming Data Analysis | [Pandas Exam](https://github.com/hasanismayilov1984/my-exams/blob/main/spotify_data/Pandas%20Exam.ipynb) | 29 / 30 | [Spotify_2024_Global_Streaming_Data.csv](https://github.com/hasanismayilov1984/my-exams/blob/main/spotify_data/Spotify_2024_Global_Streaming_Data.csv) |
 
 ---
 
@@ -28,6 +28,16 @@ Each notebook is based on a **real-world dataset** and contains **30 curated que
 - Strengthen my core skills with hands-on practice
 - Build a transparent and practical GitHub portfolio
 - Prepare for real-world data science and analytics interviews
+
+---
+
+## 💼 For Recruiters
+
+These projects reflect my ability to:
+- Work with real, messy datasets
+- Ask the right analytical questions
+- Communicate results clearly and with context
+- Write reproducible, well-documented code
 
 ---
 
