@@ -20,6 +20,8 @@ Each notebook is based on a **real-world dataset** and contains **30 curated que
 | Exam Title | Notebook | Score | Dataset |
 |------------|----------|--------|---------|
 | Spotify Streaming Data Analysis | [Pandas Exam](https://github.com/hasanismayilov1984/my-exams/blob/main/spotify_data/Pandas%20Exam.ipynb) | 29 / 30 | [Spotify_2024_Global_Streaming_Data.csv](https://github.com/hasanismayilov1984/my-exams/blob/main/spotify_data/Spotify_2024_Global_Streaming_Data.csv) |
+| Global Sugar Consumption & Health | [Sugar Exam](https://github.com/hasanismayilov1984/my-exams/blob/main/sugar_data/Sugar_Exam.ipynb) | 30 / 30 | [sugar_consumption_dataset.csv](https://github.com/hasanismayilov1984/my-exams/blob/main/sugar_data/sugar_consumption_dataset.csv) |
+
 
 ---
 
