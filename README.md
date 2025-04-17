@@ -19,7 +19,7 @@ Each notebook is based on a **real-world dataset** and contains **20 curated que
 
 - 📁 Clean and structured Jupyter Notebooks  
 - 📊 Real datasets (stored in this repo)  
-- 🧠 20 curated real-world questions per exam  
+- 🧠 20-30 curated real-world questions per exam  
 - 💡 Inline explanations for each answer  
 - 🧾 Git version-controlled and portfolio-ready  
 
