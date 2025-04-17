@@ -1,5 +1,15 @@
 # 🎓 my-exams
 
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-purple?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blueviolet?logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-DataViz-cyan?logo=seaborn&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange?logo=git)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+---
+
 A growing collection of self-assessment challenges designed to sharpen my skills in **Data Science, Python, Pandas**, and **Machine Learning**.  
 Each notebook is based on a **real-world dataset** and contains **20 curated questions** — covering data exploration, visualization, transformation, and modeling techniques.
 
@@ -9,9 +19,9 @@ Each notebook is based on a **real-world dataset** and contains **20 curated que
 
 - 📁 Clean and structured Jupyter Notebooks  
 - 📊 Real datasets (stored in this repo)  
-- 🧠 20-30 real-world questions per exam  
+- 🧠 20 curated real-world questions per exam  
 - 💡 Inline explanations for each answer  
-- 📂 Git version-controlled and portfolio-ready  
+- 🧾 Git version-controlled and portfolio-ready  
 
 ---
 
