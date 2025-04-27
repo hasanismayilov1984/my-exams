@@ -11,7 +11,7 @@
 ---
 
 A growing collection of self-assessment challenges designed to sharpen my skills in **Data Science, Python, Pandas**, and **Machine Learning**.  
-Each notebook is based on a **real-world dataset** and contains **20 curated questions** — covering data exploration, visualization, transformation, and modeling techniques.
+Each notebook is based on a **real-world dataset** and contains **20+ curated questions** — covering data exploration, visualization, transformation, and modeling techniques.
 
 ---
 
@@ -19,7 +19,7 @@ Each notebook is based on a **real-world dataset** and contains **20 curated que
 
 - 📁 Clean and structured Jupyter Notebooks  
 - 📊 Real datasets (stored in this repo)  
-- 🧠 20-30 curated real-world questions per exam  
+- 🧠 20–30 curated real-world questions per exam  
 - 💡 Inline explanations for each answer  
 - 🧾 Git version-controlled and portfolio-ready  
 
@@ -32,6 +32,7 @@ Each notebook is based on a **real-world dataset** and contains **20 curated que
 | Spotify Streaming Data Analysis | [Pandas Exam](https://github.com/hasanismayilov1984/my-exams/blob/main/spotify_data/Pandas%20Exam.ipynb) | 29 / 30 | [Spotify_2024_Global_Streaming_Data.csv](https://github.com/hasanismayilov1984/my-exams/blob/main/spotify_data/Spotify_2024_Global_Streaming_Data.csv) |
 | Global Sugar Consumption & Health | [Sugar Exam](https://github.com/hasanismayilov1984/my-exams/blob/main/sugar_data/Sugar_Exam.ipynb) | 30 / 30 | [sugar_consumption_dataset.csv](https://github.com/hasanismayilov1984/my-exams/blob/main/sugar_data/sugar_consumption_dataset.csv) |
 | Supermarket Sales Visualization | [Visualization Exam](https://github.com/hasanismayilov1984/my-exams/blob/main/supermarket_sales/supermarket_sales.ipynb) | 20 / 20 | [supermarket_sales - Sheet1.csv](https://github.com/hasanismayilov1984/my-exams/blob/main/supermarket_sales/supermarket-sales.zip) |
+| Amazon Review Dataset — Full Data Science Exam | [Amazon Exam](https://github.com/hasanismayilov1984/my-exams/blob/main/Amazon/amazon-exam.md) | 20 / 20 | [amazon.csv](https://github.com/hasanismayilov1984/my-exams/blob/main/Amazon/amazon.csv) |
 
 ---
 
